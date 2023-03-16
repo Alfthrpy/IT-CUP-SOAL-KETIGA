@@ -1,0 +1,40 @@
+# IT-CUP-SOAL-KETIGA
+
+```
+begin
+    start
+    maju(2)
+    start
+    maju(2)
+    start
+    maju(2)
+    start
+    maju(2)
+    keKiri(1)
+    start
+    maju(2)
+    start
+    maju(2)
+    start
+    maju(2)
+    start
+    maju(2)
+    keKiri(1)
+    start
+    maju(2)
+    start
+    maju(2)
+    start
+    maju(2)
+    start
+    maju(2)
+    keKiri(1)
+    start
+    maju(2)
+    start
+    maju(2)
+    start
+    maju(2)
+    start
+    maju(2)
+```
